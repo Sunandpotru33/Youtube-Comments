@@ -8,7 +8,6 @@ import {
   getTopComments,
   getNewestComments
 } from '../controllers/comment.controller';
-import { get } from 'http';
 
 const router = Router();
 
