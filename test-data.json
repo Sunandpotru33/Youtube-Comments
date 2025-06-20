@@ -1,0 +1,110 @@
+[
+  {
+    "comment_id": "fd1c2b90-ef6e-4e95-a261-97c0f9cd6451",
+    "thread_id": "fd1c2b90-ef6e-4e95-a261-97c0f9cd6451",
+    "parent_id": null,
+    "user_id": "alice",
+    "content": "This is the first top-level comment",
+    "upvotes": 4,
+    "created_at": "2025-06-19T09:00:00Z"
+  },
+  {
+    "comment_id": "8b8d6b34-38c3-44b5-b2f9-057b2bb0e4d3",
+    "thread_id": "fd1c2b90-ef6e-4e95-a261-97c0f9cd6451",
+    "parent_id": "fd1c2b90-ef6e-4e95-a261-97c0f9cd6451",
+    "user_id": "bob",
+    "content": "Reply to top-level comment",
+    "upvotes": 2,
+    "created_at": "2025-06-19T09:05:00Z"
+  },
+  {
+    "comment_id": "7c5a0fc7-c70d-42e2-bb45-86dd03d55f6b",
+    "thread_id": "fd1c2b90-ef6e-4e95-a261-97c0f9cd6451",
+    "parent_id": "8b8d6b34-38c3-44b5-b2f9-057b2bb0e4d3",
+    "user_id": "charlie",
+    "content": "Nested reply (child of bob)",
+    "upvotes": 1,
+    "created_at": "2025-06-19T09:10:00Z"
+  },
+  {
+    "comment_id": "15604e70-60d4-448c-85c0-f081c2c43ee4",
+    "thread_id": "fd1c2b90-ef6e-4e95-a261-97c0f9cd6451",
+    "parent_id": "fd1c2b90-ef6e-4e95-a261-97c0f9cd6451",
+    "user_id": "david",
+    "content": "Another reply to top-level comment",
+    "upvotes": 3,
+    "created_at": "2025-06-19T09:15:00Z"
+  },
+  {
+    "comment_id": "3c23225c-5b8e-4f32-813e-c81f8e1a46cd",
+    "thread_id": "3c23225c-5b8e-4f32-813e-c81f8e1a46cd",
+    "parent_id": null,
+    "user_id": "emma",
+    "content": "Second top-level comment",
+    "upvotes": 6,
+    "created_at": "2025-06-19T10:00:00Z"
+  },
+  {
+    "comment_id": "97c948f5-119a-4269-a56e-dfe6933e68f0",
+    "thread_id": "3c23225c-5b8e-4f32-813e-c81f8e1a46cd",
+    "parent_id": "3c23225c-5b8e-4f32-813e-c81f8e1a46cd",
+    "user_id": "frank",
+    "content": "Reply to second top-level comment",
+    "upvotes": 2,
+    "created_at": "2025-06-19T10:05:00Z"
+  },
+  {
+    "comment_id": "a1a1a1a1-a1a1-4a1a-a1a1-a1a1a1a1a1a1",
+    "thread_id": "a1a1a1a1-a1a1-4a1a-a1a1-a1a1a1a1a1a1",
+    "parent_id": null,
+    "user_id": "george",
+    "content": "Another amazing video, thanks!",
+    "upvotes": 8,
+    "created_at": "2025-06-19T11:00:00Z"
+  },
+  {
+    "comment_id": "b2b2b2b2-b2b2-4b2b-b2b2-b2b2b2b2b2b2",
+    "thread_id": "a1a1a1a1-a1a1-4a1a-a1a1-a1a1a1a1a1a1",
+    "parent_id": "a1a1a1a1-a1a1-4a1a-a1a1-a1a1a1a1a1a1",
+    "user_id": "hannah",
+    "content": "Agreed! Very informative.",
+    "upvotes": 3,
+    "created_at": "2025-06-19T11:03:00Z"
+  },
+  {
+    "comment_id": "c3c3c3c3-c3c3-4c3c-c3c3-c3c3c3c3c3c3",
+    "thread_id": "a1a1a1a1-a1a1-4a1a-a1a1-a1a1a1a1a1a1",
+    "parent_id": "b2b2b2b2-b2b2-4b2b-b2b2-b2b2b2b2b2b2",
+    "user_id": "ian",
+    "content": "Totally, I even took notes!",
+    "upvotes": 2,
+    "created_at": "2025-06-19T11:05:00Z"
+  },
+  {
+    "comment_id": "d4d4d4d4-d4d4-4d4d-d4d4-d4d4d4d4d4d4",
+    "thread_id": "d4d4d4d4-d4d4-4d4d-d4d4-d4d4d4d4d4d4",
+    "parent_id": null,
+    "user_id": "julia",
+    "content": "What’s the background music?",
+    "upvotes": 1,
+    "created_at": "2025-06-19T11:10:00Z"
+  },
+  {
+    "comment_id": "e5e5e5e5-e5e5-4e5e-e5e5-e5e5e5e5e5e5",
+    "thread_id": "d4d4d4d4-d4d4-4d4d-d4d4-d4d4d4d4d4d4",
+    "parent_id": "d4d4d4d4-d4d4-4d4d-d4d4-d4d4d4d4d4d4",
+    "user_id": "karen",
+    "content": "I think it’s by Chillhop!",
+    "upvotes": 5,
+    "created_at": "2025-06-19T11:12:00Z"
+  },
+  {
+    "comment_id": "f6f6f6f6-f6f6-4f6f-f6f6-f6f6f6f6f6f6",
+    "thread_id": "f6f6f6f6-f6f6-4f6f-f6f6-f6f6f6f6f6f6",
+    "parent_id": null,
+    "user_id": "leo",
+    "content": "This deserves more views 👏",
+    "upvotes": 9,
+    "created_at": "2025-06-19T11:30:00Z"
+  }
+]
